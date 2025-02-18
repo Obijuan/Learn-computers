@@ -32,15 +32,14 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer1"
      showguides="true"
      showgrid="false" /><defs
      id="defs1" /><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(-14.485117,-106.47802)"
-     sodipodi:insensitive="true"><rect
+     transform="translate(-14.485117,-106.47802)"><rect
        style="fill:#ffffff;stroke:none;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:none"
        id="rect2"
        width="201.65511"
@@ -63,7 +62,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Fotograma-02"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      transform="translate(0.24147093)"
      sodipodi:insensitive="true"><image
        width="193.93959"
@@ -77,7 +76,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Fotograma-03"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="193.675"
        height="162.71875"
@@ -89,7 +88,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Fotograma-04"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.52708"
        height="163.5125"
@@ -101,7 +100,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Fotograma-05"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.52708"
        height="163.77708"
@@ -113,7 +112,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Fotograma-06"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="194.46875"
        height="163.5125"
@@ -125,7 +124,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Fotograma-07"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.2625"
        height="163.24791"
@@ -137,7 +136,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Fotograma-08"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.79167"
        height="163.5125"
@@ -149,7 +148,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Fotograma-09"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.2625"
        height="163.24791"
@@ -161,7 +160,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Fotograma-10"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.79167"
        height="163.24791"
@@ -173,7 +172,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Fotograma-11"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.79167"
        height="163.77708"
@@ -185,7 +184,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Fotograma-12"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.79167"
        height="164.04167"
@@ -197,7 +196,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Fotograma-13"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.79167"
        height="163.77708"
@@ -209,7 +208,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Fotograma-14"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.2625"
        height="164.04167"
@@ -221,7 +220,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="Fotograma-15"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.2625"
        height="164.04167"
@@ -233,7 +232,7 @@
      inkscape:groupmode="layer"
      id="layer17"
      inkscape:label="Fotograma-16"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true"><image
        width="195.52708"
        height="164.30624"
