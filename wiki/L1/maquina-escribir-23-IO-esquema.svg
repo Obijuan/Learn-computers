@@ -80,6 +80,11 @@ svg.ge-export-svg-dark svg:not(mjx-container &gt; svg)
      id="layer1"
      transform="translate(153.14863,31.082334)"
      style="display:inline"><circle
+       style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.793752;stroke-linejoin:round"
+       id="circle13"
+       cx="412.37759"
+       cy="156.06467"
+       r="51.362061" /><circle
        style="fill:#f9f9f9;stroke:#1a1a1a;stroke-width:0.79375;stroke-linejoin:round"
        id="circle11"
        cx="-64.356346"
@@ -206,12 +211,7 @@ svg.ge-export-svg-dark svg:not(mjx-container &gt; svg)
          style="fill:#000000;stroke:none;stroke-width:1.05833"
          x="46.957329"
          y="252.72556"
-         id="tspan10" /></text><circle
-       style="fill:none;stroke:#1a1a1a;stroke-width:0.793752;stroke-linejoin:round"
-       id="circle13"
-       cx="412.37759"
-       cy="156.06467"
-       r="51.362061" /><text
+         id="tspan10" /></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:12.4539px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
        x="410.99033"
