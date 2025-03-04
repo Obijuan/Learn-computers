@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.49953305"
-     inkscape:cx="795.74315"
-     inkscape:cy="667.6235"
+     inkscape:cx="627.58611"
+     inkscape:cy="523.48889"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showguides="true" />
   <defs
      id="defs1">
@@ -444,5 +444,11 @@
        d="m 294.88233,165.88746 25.26416,0.85502"
        id="path70"
        sodipodi:nodetypes="cc" />
+    <circle
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle70"
+       cx="331.37405"
+       cy="127.64837"
+       r="1.191738" />
   </g>
 </svg>
