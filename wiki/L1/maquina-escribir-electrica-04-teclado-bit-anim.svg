@@ -94,8 +94,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     transform="translate(51.329819,7.7290421)"><g
+     style="display:none"
+     transform="translate(51.329819,7.7290421)"
+     sodipodi:insensitive="true"><g
        id="g43"
        transform="matrix(0.28221808,0,0,0.28221808,60.867885,76.761302)"
        style="display:inline"><path
