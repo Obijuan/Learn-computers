@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="453.11938mm"
+   height="215.51845mm"
+   viewBox="0 0 453.11938 215.51845"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="maquina-escribir-electrica-06-palanca.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.7064464"
+     inkscape:cx="874.80098"
+     inkscape:cy="494.72968"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-5.1810064,53.609692)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect70"
+       width="453.11938"
+       height="215.51845"
+       x="5.1810064"
+       y="-53.609692" />
+    <rect
+       style="display:inline;fill:#ececec;stroke:#000000;stroke-width:0.79375;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect9-2"
+       width="445.18878"
+       height="207.56108"
+       x="9.5173597"
+       y="-49.808853" />
+  </g>
+  <g
+     inkscape:label="Reposo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-5.1810064,53.609692)">
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect16"
+       width="6.741488"
+       height="24.772022"
+       x="94.79277"
+       y="485.37689"
+       transform="rotate(-90)" />
+    <path
+       id="path5"
+       style="display:inline;fill:#b3b3b3;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 120.6142,-7.2419198 7.19139,15.655158 39.70991,86.4457038 -8.16804,3.75208 -4.7e-4,2.2e-4 -0.0378,-0.0823 -3.75208,-8.16803 0.0378,0.0823 -35.95781,-78.277671 -7.1914,-15.6551668 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:transform-center-x="48.960341"
+       inkscape:transform-center-y="-33.51469" />
+    <circle
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.529164;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle4"
+       cx="-160.84618"
+       cy="91.982269"
+       r="2.2618482"
+       transform="matrix(-0.99999894,-0.00145685,-0.00145685,0.99999894,0,0)" />
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect5"
+       width="6.741488"
+       height="24.772022"
+       x="-119.36783"
+       y="36.744308"
+       transform="matrix(-0.90871029,0.41742737,0.41742737,0.90871029,0,0)"
+       inkscape:transform-center-x="34.795931"
+       inkscape:transform-center-y="-95.991633" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1"
+       cx="160.71201"
+       cy="92.216499"
+       r="22.810312" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#0000ff;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="161.18333"
+       y="92.520462"
+       id="text60"><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="92.520462"
+         id="tspan1">Actuador</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="99.197655"
+         id="tspan41" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="105.87484"
+         id="tspan56" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="112.55203"
+         id="tspan57" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="119.22922"
+         id="tspan58" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="125.90641"
+         id="tspan59" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="161.18333"
+         y="132.5836"
+         id="tspan60" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="187.03307"
+       y="38.317741"
+       id="text53"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="187.03307"
+         y="38.317741"
+         id="tspan54">Palanca</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="187.03307"
+         y="44.99493"
+         id="tspan50" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="187.03307"
+         y="51.672119"
+         id="tspan51" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="187.03307"
+         y="58.349312"
+         id="tspan52" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="187.03307"
+         y="65.026497"
+         id="tspan53" /></text>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 171.38455,36.111687 -22.74594,4.14591"
+       id="path54"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="162.40381"
+       y="-29.74374"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="162.40381"
+         y="-29.74374"
+         id="tspan2">Carácter A</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="162.40381"
+         y="-23.066551"
+         id="tspan3" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="162.40381"
+         y="-16.38936"
+         id="tspan4" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="162.40381"
+         y="-9.7121716"
+         id="tspan5" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="162.40381"
+         y="-3.0349815"
+         id="tspan6" /></text>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 148.34429,-26.38835 -14.5362,18.1819352"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="162.0293"
+       y="127.18312"
+       id="text11"><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="162.0293"
+         y="127.18312"
+         id="tspan7">Posición de </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="162.0293"
+         y="133.86031"
+         id="tspan12">reposo</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="162.0293"
+         y="140.53751"
+         id="tspan8" /><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="162.0293"
+         y="147.21469"
+         id="tspan9" /><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="162.0293"
+         y="153.89188"
+         id="tspan10" /><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="162.0293"
+         y="160.56908"
+         id="tspan11" /></text>
+    <g
+       id="layer1-6"
+       inkscape:label="Layer 1"
+       style="display:inline"
+       transform="matrix(0.30103422,0,0,0.30103422,31.235265,72.738978)">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6-7"
+         d="m 69.663915,107.28527 13.49404,29.37368 -12.43879,31.77467 13.78754,4.28259 m -42.76081,-62.91564 c 0,0 -3.59775,26.95639 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891556,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         aria-label="o"
+         transform="matrix(0.9118541,0,0,1.0966667,-128.06239,35.709923)"
+         id="text4142-6"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           d="m 212.31328,-10.227385 q -10.41157,0 -17.41094,7.5243289 -6.91189,7.4368361 -9.71164,21.5230791 -2.79975,14.086242 1.1374,21.610571 3.93715,7.436836 14.34872,7.436836 10.23659,0 17.14847,-7.436836 6.99938,-7.524329 9.79913,-21.610571 2.79975,-14.086243 -1.1374,-21.5230791 -3.93715,-7.5243289 -14.17374,-7.5243289 z m 4.4621,-22.398 q 25.28525,0 36.74672,13.648781 11.54897,13.6487821 6.7369,37.796627 -4.81207,24.147844 -21.78555,37.796626 -16.97349,13.648782 -42.25873,13.648782 -25.37274,0 -36.92171,-13.648782 -11.54896,-13.648782 -6.73689,-37.796626 4.81207,-24.1478449 21.78555,-37.796627 17.06098,-13.648781 42.43371,-13.648781 z"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.184px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000;stroke-width:1px"
+           id="path77" />
+      </g>
+    </g>
+    <g
+       id="g12"
+       transform="translate(131.46314,10.662476)">
+      <path
+         id="rect8602-3"
+         style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.427087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -53.442125,76.424867 H -28.7492 l 6.56611,5.78751 -6.56611,5.78742 h -24.692925 z"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-1-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-51.150616"
+         y="83.914139"
+         id="text1817"
+         inkscape:transform-center-x="16.474636"
+         inkscape:transform-center-y="1.5315389"
+         inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-1-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1815"
+           x="-51.150616"
+           y="83.914139"
+           style="stroke-width:0.264583">Print_A</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 109.28,92.874812 h 28.6312"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="109.44091"
+       y="122.50176"
+       id="text17"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="109.44091"
+         y="122.50176"
+         id="tspan13">Señal de</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="109.44091"
+         y="129.17896"
+         id="tspan18">control</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="109.44091"
+         y="135.85614"
+         id="tspan14" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="109.44091"
+         y="142.53333"
+         id="tspan15" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="109.44091"
+         y="149.21053"
+         id="tspan16" /><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:1.05833"
+         x="109.44091"
+         y="155.88771"
+         id="tspan17" /></text>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 111.08569,114.57512 6.27991,-17.3894"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path19"
+       style="display:inline;fill:#b3b3b3;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 427.95594,-0.55420417 -7.92591,15.29640117 -43.76586,84.464704 -7.98086,-4.135334 -4.6e-4,-2.36e-4 0.0417,-0.08041 4.13533,-7.980846 -0.0417,0.08041 39.63054,-76.483841 7.92592,-15.2964145 z"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:transform-center-x="3.6674779"
+       inkscape:transform-center-y="-59.219079" />
+    <circle
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.529164;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle19"
+       cx="-374.29947"
+       cy="91.671303"
+       r="2.2618482"
+       transform="matrix(-0.99999894,-0.00145685,-0.00145685,0.99999894,0,0)" />
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect19"
+       width="6.741488"
+       height="24.772022"
+       x="-386.46268"
+       y="-204.40141"
+       transform="matrix(-0.88788617,-0.46006321,-0.46006321,0.88788617,0,0)"
+       inkscape:transform-center-x="-54.31572"
+       inkscape:transform-center-y="-86.457818" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle20"
+       cx="374.16553"
+       cy="92.216499"
+       r="22.810312" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#0000ff;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="374.63684"
+       y="92.520462"
+       id="text26"><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="92.520462"
+         id="tspan20">Actuador</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="99.197655"
+         id="tspan21" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="105.87484"
+         id="tspan22" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="112.55203"
+         id="tspan23" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="119.22922"
+         id="tspan24" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="125.90641"
+         id="tspan25" /><tspan
+         sodipodi:role="line"
+         style="fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="374.63684"
+         y="132.5836"
+         id="tspan26" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.4191px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;stroke:none;stroke-width:1.05833;stroke-linejoin:round"
+       x="376.60638"
+       y="128.3067"
+       id="text43"><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="376.60638"
+         y="128.3067"
+         id="tspan37">Posición de </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="376.60638"
+         y="134.98389"
+         id="tspan38">Impacto</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="376.60638"
+         y="141.66109"
+         id="tspan39" /><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="376.60638"
+         y="148.33827"
+         id="tspan40" /><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="376.60638"
+         y="155.01546"
+         id="tspan42" /><tspan
+         sodipodi:role="line"
+         style="fill:#008000;stroke:none;stroke-width:1.05833"
+         x="376.60638"
+         y="161.69266"
+         id="tspan43" /></text>
+    <g
+       id="g46"
+       transform="translate(344.91666,10.662476)">
+      <path
+         id="path45"
+         style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.427087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -53.442125,76.424867 H -28.7492 l 6.56611,5.78751 -6.56611,5.78742 h -24.692925 z"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-1-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.8417px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-51.150616"
+         y="83.914139"
+         id="text45"
+         inkscape:transform-center-x="16.474636"
+         inkscape:transform-center-y="1.5315389"
+         inkscape:export-filename="/home/obijuan/Develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT10-Entradas-Pulsadores/etapa-1-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan45"
+           x="-51.150616"
+           y="83.914139"
+           style="stroke-width:0.264583">Print_A</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 322.73352,92.874812 h 28.6312"
+       id="path46"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g43"
+       transform="matrix(0.28221807,0,0,0.28221807,260.69509,74.34916)"
+       style="display:inline">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-7-6"
+         style="fill:none;stroke:#008000;stroke-width:2.196;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 232.51896,-49.808853 V 157.75222"
+       id="path61" />
+  </g>
+</svg>
