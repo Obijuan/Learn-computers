@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="329.00977mm"
+   width="370.95679mm"
    height="247.80133mm"
-   viewBox="0 0 329.00976 247.80133"
+   viewBox="0 0 370.95678 247.80133"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.70644641"
-     inkscape:cx="695.02795"
+     inkscape:cx="694.32018"
      inkscape:cy="442.35485"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
@@ -55,8 +55,7 @@
      id="layer2"
      inkscape:label="Back"
      transform="translate(-63.198978,-7.2306929)"
-     style="display:inline"
-     sodipodi:insensitive="true"><rect
+     style="display:inline"><rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.793747;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="rect70"
        width="370.95679"
@@ -79,7 +78,7 @@
        height="234.5598"
        x="69.74791"
        y="13.586627" /><path
-       style="opacity:1;fill:#000000;stroke:#008000;stroke-width:1.32291667;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
+       style="opacity:1;fill:#000000;stroke:#008000;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
        d="M 305.297,75.973986 181.3881,75.813466"
        id="path53"
        sodipodi:nodetypes="cc" /><text
@@ -111,7 +110,7 @@
        d="M 305.297,90.010011 181.3881,89.849491"
        id="path4"
        sodipodi:nodetypes="cc" /><path
-       style="fill:#000000;stroke:#666666;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875001, 1.5875001;marker-end:url(#Triangle);stroke-dashoffset:0"
+       style="fill:#000000;stroke:#666666;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;marker-end:url(#Triangle)"
        d="M 305.78386,76.881157 183.67031,87.519819"
        id="path5"
        sodipodi:nodetypes="cc" /><text
