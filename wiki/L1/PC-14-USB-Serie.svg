@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="203.40147mm"
+   width="203.40149mm"
    height="119.73675mm"
-   viewBox="0 0 203.40148 119.73675"
+   viewBox="0 0 203.4015 119.73675"
    version="1.1"
    id="svg5170"
    inkscape:version="1.4 (e7c3feb, 2024-10-09)"
@@ -146,11 +146,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="581.42857"
-     inkscape:cy="192.14286"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="593.9697"
+     inkscape:cy="204.55589"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -180,7 +180,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(74.568199,-83.451645)">
+     transform="translate(74.568199,-83.451645)"
+     style="display:inline">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.87204;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8363"
@@ -191,12 +192,21 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/intro-03.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.793749;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect70"
+       width="203.40149"
+       height="119.73674"
+       x="-74.568199"
+       y="83.451645" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(74.568199,-83.451645)">
+     transform="translate(74.568199,-83.451645)"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#f2f2f2;stroke:#1a1a1a;stroke-width:0.742537;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3"
