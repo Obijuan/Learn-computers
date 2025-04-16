@@ -269,7 +269,8 @@
      inkscape:groupmode="layer"
      id="layer26"
      inkscape:label="Cursor-01"
-     style="display:inline"><rect
+     style="display:none"
+     sodipodi:insensitive="true"><rect
        style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
        id="rect26"
        width="4.6199656"
@@ -279,8 +280,7 @@
      inkscape:groupmode="layer"
      id="layer25"
      inkscape:label="Cursor-2"
-     style="display:none"
-     sodipodi:insensitive="true"><rect
+     style="display:inline"><rect
        style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.264583;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none"
        id="rect26-2"
        width="4.6199656"
@@ -344,7 +344,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="foto-05"
-     style="display:inline"><text
+     style="display:none"
+     sodipodi:insensitive="true"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02806px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.475744"
        x="121.38854"
@@ -415,7 +416,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="foto-09"
-     style="display:inline"><text
+     style="display:none"
+     sodipodi:insensitive="true"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02806px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.475744"
        x="128.76964"
@@ -486,7 +488,8 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="foto-13"
-     style="display:inline"><text
+     style="display:none"
+     sodipodi:insensitive="true"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02806px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.475744"
        x="135.60217"
@@ -557,7 +560,8 @@
      inkscape:groupmode="layer"
      id="layer19"
      inkscape:label="foto-17"
-     style="display:inline"><text
+     style="display:none"
+     sodipodi:insensitive="true"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02806px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.475744"
        x="143.55879"
@@ -592,7 +596,8 @@
      inkscape:groupmode="layer"
      id="layer21"
      inkscape:label="foto-19"
-     style="display:inline"><text
+     style="display:none"
+     sodipodi:insensitive="true"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02806px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.475744"
        x="185.71858"
@@ -645,7 +650,7 @@
      inkscape:groupmode="layer"
      id="layer24"
      inkscape:label="foto-22"
-     style="display:none"><text
+     style="display:inline"><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02806px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.475744"
        x="21.900545"
